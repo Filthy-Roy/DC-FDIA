@@ -1,4 +1,4 @@
-# FDIA Research Tool for the IEEE 118-Bus System
+## FDIA Research Tool for the IEEE 118-Bus System
 
 A Python desktop application for generating False Data Injection Attack (FDIA) datasets and evaluating how well machine-learning models distinguish attacked power-system measurements from normal measurements. The interface is built with PyQt6, the network model comes from pandapower, and the detection models use scikit-learn.
 
